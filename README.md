@@ -4,8 +4,8 @@ A leadership capability that defines five behaviors that make someone a great le
 This repo includes six quick reference sheets:
  1. Red Hat Multiplier overview ([pdf](https://github.com/red-hat-people-team/red-hat-multiplier/blob/master/Red_Hat_Multiplier_overview.pdf) or [odt](https://github.com/red-hat-people-team/red-hat-multiplier/blob/master/Red_Hat_Multiplier_overview.odt))
  2. [Collaboration](https://github.com/red-hat-people-team/red-hat-multiplier/tree/master/collaboration)
- 3. [Transparency] (https://github.com/red-hat-people-team/red-hat-multiplier/tree/master/transparency)
- 4. [Trust] (https://github.com/red-hat-people-team/red-hat-multiplier/tree/master/trust)
+ 3. [Transparency](https://github.com/red-hat-people-team/red-hat-multiplier/tree/master/transparency)
+ 4. [Trust](https://github.com/red-hat-people-team/red-hat-multiplier/tree/master/trust)
  5. [Meritocracy](https://github.com/red-hat-people-team/red-hat-multiplier/tree/master/meritocracy)
  6. [Connection](https://github.com/red-hat-people-team/red-hat-multiplier/tree/master/connection)
 
